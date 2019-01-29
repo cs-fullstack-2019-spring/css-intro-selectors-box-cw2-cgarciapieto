@@ -1,0 +1,24 @@
+h1{
+    color:red;
+    width: 25%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+
+
+}
+
+h2 {
+    color: red;
+    border: 5px;
+    border-style: dashed;
+    border-color: black;
+
+}
+
+.betterclass
+{
+    color: green;
+}
+

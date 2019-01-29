@@ -1,0 +1,46 @@
+p {
+    background-color: grey;
+    margin-right: 10%;
+}
+
+.secondParagraph
+{
+    background-color: blue;
+    horiz-align: center;
+}
+
+#first{
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.third{
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.fourth{
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#table
+{
+
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dashed;
+}
+
+h1{
+    text-align: center;
+}
