@@ -1,3 +1,6 @@
+### 1 POINTS
+### KEY: Missed an instance of 'Better' in 2nd exercise
+
 # CSS Intro to Selectors and Box Model
 
 ### Exercise 1:
